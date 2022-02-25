@@ -1,0 +1,120 @@
+[
+  {
+    "question": "What statement best describes the concept of the Internet of Things?",
+    "answers": {
+      "a": "Connecting billions of devices, capable of collecting data and integrated into the environment, to a global network.",
+      "b": "Distribution of a huge number of devices among the population of the world.",
+      "c": "Creation of sustainable and powerful computing systems.",
+      "d": "Digitalization of mobile solutions."
+    },
+    "multiple": false
+  },
+  {
+    "question": "Which of the following DOES NOT count as an IoT system?",
+    "answers": {
+      "a": "Smart Factory",
+      "b": "Smart Lock",
+      "c": "Smart Money",
+      "d": "Smart Car"
+    },
+    "multiple": false
+  },
+  {
+    "question": "Which of the following can be called an autonomous system in the context of the classification of IoT devices?",
+    "answers": {
+      "a": "smart LED light bulbs",
+      "b": "home automation hub ",
+      "c": "PM2.5 and PM10 dust sensors",
+      "d": "robot vacuum cleaner"
+    },
+    "multiple": false
+  },
+  {
+    "question": "What are the main tasks of edge-systems? (multiple answers)",
+    "answers": {
+      "a": "collection of data about the physical environment",
+      "b": "communication bridging for devices",
+      "c": "cooling IoT devices during long-term operation",
+      "d": "aggregation and cache of devices data",
+      "e": "real-time control of devices",
+      "f": "withdrawal of payment for the operation of IoT devices"
+    },
+    "multiple": true
+  },
+  {
+    "question": "What are the main tasks of IoT providers? (multiple answers)",
+    "answers": {
+      "a": "configuring analytical services",
+      "b": "configuring management services for cloud",
+      "c": "collection of personal data of users of IoT devices",
+      "d": "retail sale and delivery of IoT devices",
+      "e": "installation of new versions of the operating system on the user's personal computer",
+      "f": "installing software for smart device functionality"
+    },
+    "multiple": true
+  },
+  {
+    "question": "Name one of the main functions of digital twins.",
+    "answers": {
+      "a": "The ability to create a digital version of a person who will live in virtual reality.",
+      "b": "The ability to predict the development of the state of a real object.",
+      "c": "The ability to ask the user for digital currency for their work.",
+      "d": "The ability of devices to self-replicate exponentially in a virtual environment."
+    },
+    "multiple": false
+  },
+  {
+    "question": "What are the reasons for the use of indirect control of devices through digital twins? (multiple answers)",
+    "answers": {
+      "a": "the probability of data sources being overloaded when users calls them on request",
+      "b": "purposefully degrading the user experience in order to save power for devices",
+      "c": "saving the last status of devices when they fail",
+      "d": "lack of convenient user interfaces IoT-providers",
+      "e": "providing the necessary starting conditions for a launch of devices",
+      "f": "low decision-making speed by users when working with devices"
+    },
+    "multiple": true
+  },
+  {
+    "question": "For which of the cases is it unlikely to get comprehensive analytical data at the edge level?",
+    "answers": {
+      "a": "logs of binary sensor switching",
+      "b": "logs of the sensor for the presence of different gases in the air",
+      "c": "graphs of temperature sensor readings",
+      "d": "cross-statistics of irrigation system sensors"
+    },
+    "multiple": false
+  },
+  {
+    "question": "Indicate the topical problems of building IoT solutions (multiple answers).",
+    "answers": {
+      "a": "occasional disruptions to the availability of cloud services",
+      "b": "the high cost of sending transactions in blockchain",
+      "c": "high power consumption of service-oriented cloud architecture",
+      "d": "leaks of personal data",
+      "e": "the need to send data from devices for analytics",
+      "f": "issues of protection against failures, hacks and attacks"
+    },
+    "multiple": true
+  },
+  {
+    "question": "Why is a standardized interface for machines (such as ROS) needed when developing robotic applications?",
+    "answers": {
+      "a": "Standardized interface guarantees protection against hacking.",
+      "b": "Heterogeneous robotic devices can interact with each other at the same level",
+      "c": "Thanks to this interface, machines can even interact directly with people, without the need for a human-to-machine interface.",
+      "d": "The standardized interface allows to avoid double spending when performing transactions."
+    },
+    "multiple": false
+  },
+  {
+    "question": "In which of these cases is launching an IoT device potentially more secure? Option 1: the user sends a request to launch the device, device digital twin downloads request parameters, the device downloads the states of the digital twin and launches. Option 2: the user sends a request to launch the device, IoT gateway receives the request and broadcasts it, the device receives a request from the gateway and launches.",
+    "answers": {
+      "a": "Both options",
+      "b": "None of the options",
+      "c": "Option 2",
+      "d": "Option 1"
+    },
+    "multiple": false
+  }
+]

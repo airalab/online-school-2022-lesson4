@@ -5,7 +5,7 @@
         <div>
           <h1>Dear participant!</h1>
           <p>
-            You are invited to take this test for lesson 3, which is dedicated
+            You are invited to take this test for lesson 4, which is dedicated
             to the second chapter of the Robonomics Whitepaper 2022
             “Architecture of Robonomics” and its section on IoT systems. The
             test is designed to encourage you to reflect on the ideas covered in
@@ -14,7 +14,7 @@
             be careful.
           </p>
           <p>
-            To pass the test, you need to score 10 correct answers out of 17
+            To pass the test, you need to score 7 correct answers out of 11
             (60%, the standard value in academic practice). Correct answers and
             a list of those who successfully completed the lesson will be
             published on the final day of the school.

@@ -3,9 +3,9 @@
     <div class="app-title">
       <div class="layout">
         <h1>
-          Lesson 4 Test >
+          Lesson 4 Test <
           <a href="https://robonomics.academy/" target="_blank"
-            >Online Robonomics school 2022</a
+            >Introduction Course: Lesson 4</a
           >
         </h1>
       </div>

@@ -3,7 +3,7 @@
     <div class="app-title">
       <div class="layout">
         <h1>
-          Lesson 4 Test <
+          Lesson 4 Test &lt;
           <a href="https://robonomics.academy/" target="_blank"
             >Introduction Course: Lesson 4</a
           >
